@@ -37,8 +37,6 @@ Course Work: Machine Learning, Advanced Java Programming, Algorithms, Data Struc
 
 Let's Connect! 🤝
 
-Email: ainababdiqani@gmail.com
-
 LinkedIn: linkedin.com/in/abdiqani-ainab
 
 GitHub: github.com/AbdiqaniA
