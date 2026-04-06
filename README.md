@@ -21,6 +21,7 @@ AI Training: Right now I am working as an AI Trainer for Scale AI, Alignerr, and
 What I am Building 🏗️
 
 Listing Pulse: This is an Airbnb sentiment intelligence platform. I built a custom binary time series database from scratch using Java NIO to handle 636,000+ reviews. I used a fixed width 24 byte record format so I could get $O(1)$ query speeds. I also created a ranking algorithm to find trending listings in San Diego. 📊 📈
+[Check It out!!!]https://github.com/AbdiqaniA/Listing-Pulse
 
 Atlas-Inspired Time Series Engine: I made a lightweight time series database in Java inspired by Netflix Atlas. It supports multi-stream ingestion and uses delta encoding for timestamps to keep the storage footprint small while staying fast. ⏱️ 📦
 
